@@ -20,3 +20,7 @@ int main()
     system("pause");
     
 }
+
+// neste algoritmo inserimos a \t de tabulação. Ou seja, será dado um espaço de 5 espaços entre os textos.
+// Compare como algoritmo 003...
+
