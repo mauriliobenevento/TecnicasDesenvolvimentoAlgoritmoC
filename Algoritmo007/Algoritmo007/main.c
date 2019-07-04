@@ -12,6 +12,6 @@ int main()
 {
     
     printf("\tfruta\tqtde\tvalor\n\tbanana\t10\t\t2\n\tgoiaba\t5\t\t2\n\tabacaxi\t4\t\t6\n\tmanga\t3\t\t1\n");
-    getchar(); // caso esteja utiliando windows, mude para: system("pause");
+    getchar(); // caso esteja utilizando windows, mude para: system("pause");
     
 }
