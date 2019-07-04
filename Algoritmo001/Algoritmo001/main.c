@@ -18,3 +18,4 @@ int main()                 // abertura da função princial da linguagem C reque
     
 }                          // fechamento de chave para indicar o fim do programa.
 
+// com os comentários de linhas. 
