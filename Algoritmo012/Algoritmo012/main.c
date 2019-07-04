@@ -16,7 +16,6 @@ int main()
     
     printf("Valor de X apos a atribuicao....: %d", x);
     
-    
     x=1;
     x +=10;     // incremento é diferente de atribuição
     
