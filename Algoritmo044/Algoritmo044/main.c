@@ -1,7 +1,6 @@
 //  Algoritmo044
 //
-//  Encadeando laços (condicionais)
-//  for (num=10; num>=0; num--)   // 2 em 2 // decrescente
+//  Encadeando laços (condicionais) // decrescente
 //
 //  Created by Maurilio Benevento on 04/07/19.
 //  Copyright © 2019 Maurilio Benevento. All rights reserved.
