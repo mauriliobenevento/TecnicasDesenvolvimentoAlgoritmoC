@@ -6,13 +6,10 @@
 //  Copyright © 2019 Maurilio Benevento. All rights reserved.
 //
 
-
-//  Algoritmo 37
-//
-/* Ex039 -
- Matrizes bidimensionais
+/*
+Matrizes bidimensionais
  
- J· vimos como declarar matrizes unidimensionais (vetores).
+ Já vimos como declarar matrizes unidimensionais (vetores).
  Vamos tratar agora de matrizes bidimensionais.
  
  A forma geral da declaração de uma matriz bidimensional é muito parecida com a
@@ -27,11 +24,8 @@
  na linguagem C, os indices variam de zero ao valor declarado, menos um;
  mas o C nao vai verificar isto para o usuario.
  Manter os indices na faixa permitida e tarefa do programador.
- 
- */
-//
-//  Maurilio Benevento on 01/11/2017
 
+ */
 
 #include <stdio.h>
 
@@ -43,7 +37,6 @@ int main ()
     
     for (i=0;i<=15;i++) // laco para
         printf("Laco (i)...: %d\n",i);
-    
     
     for (j=0;j<=15;j++)
     {
