@@ -41,13 +41,3 @@ int main()
 }
 
 
-//while (num[count-1]!=000 && count<6)
-
-
-
-
-
-
-
-
-
